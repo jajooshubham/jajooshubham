@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Shubham Jajoo 👋
 
-### Senior Frontend Engineer (SDE-2) · React · TypeScript · SaaS · Web Security
+### Developer · React · TypeScript · SaaS · Shopify · Hydrogen · Liquid · JavaScript
 
-I build **scalable, secure, and high-performance web applications** that solve real business problems.
+I build **scalable, and high-performance applications** that solve real business problems in Ecommerce.
 
-Currently working as a **Senior Frontend Engineer (SDE-2) at miniOrange Security**, where I work on complex products involving authentication, SSO, OAuth, embedded applications, and large-scale frontend systems.
+Currently working as a **Senior Frontend Engineer (SDE-2) at miniOrange**, where I work on Shopify applications and themes involving authentication, SSO, OAuth, JWT, and contributes to IAM and DLP frontend architectures.
 
 ### 🚀 What I Bring
 
